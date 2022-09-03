@@ -1,0 +1,4 @@
+GISS-E2-1-G ssp534-over
+['MIROC6' 'MRI-ESM2-0' 'CNRM-ESM2-1' 'CanESM5' 'IPSL-CM6A-LR' 'FGOALS-g3'
+ 'GISS-E2-1-G']
+{'ssp245', 'ssp119', 'ssp126', 'ssp434', 'ssp534-over', 'ssp370', 'ssp460', 'ssp585'}
